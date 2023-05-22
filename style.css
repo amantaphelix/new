@@ -1,0 +1,26 @@
+*{
+    background-color: beige;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#h{
+    color: rgb(39, 156, 117);
+}
+.abcd{
+    color: rgb(168, 190, 171);
+}
+#b{
+    background-color: rgb(168, 190, 171);
+    border-radius: 15px;
+}
+.lo{
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    border: 2px solid seagreen;
+    padding-top: 15px;
+    padding-left: 20%;
+    border-radius:15px;
+    height: 140px;
+}
