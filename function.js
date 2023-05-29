@@ -9,7 +9,7 @@ var b=add(2,3);
 let c=32;
 let d=10;
 if(c>d){
-    console.log("True");
+    console.log("True not tye");
 }else{
     console.log("False");
 
