@@ -29,3 +29,5 @@ do{
     console.log(i);
     i++;
 }while(i<6);
+
+// podi pa
